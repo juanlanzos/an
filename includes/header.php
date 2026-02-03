@@ -27,7 +27,7 @@ $current_page = basename($_SERVER['PHP_SELF'], '.php');
                     <li><a href="servicios.php" class="nav-link <?php echo $current_page === 'servicios' ? 'active' : ''; ?>">Servicios</a></li>
                     <li><a href="proyectos.php" class="nav-link <?php echo $current_page === 'proyectos' ? 'active' : ''; ?>">Proyectos</a></li>
                     <li><a href="contacto.php" class="nav-link <?php echo $current_page === 'contacto' ? 'active' : ''; ?>">Contacto</a></li>
-                    <li><a href="contacto.php" class="btn btn-primary">Cotizarsss</a></li>
+                    <li><a href="contacto.php" class="btn btn-primary">Cotizar</a></li>
                 </ul>
                 <button class="nav-toggle" aria-label="Toggle navigation">
                     <span></span>
