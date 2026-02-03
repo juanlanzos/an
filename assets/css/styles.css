@@ -14,8 +14,8 @@
     --gray-light: #B5B5B5;
 
     /* Typography */
-    --font-primary: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-    --font-heading: 'Outfit', var(--font-primary);
+    --font-primary: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    --font-heading: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
     /* Spacing */
     --section-padding: 6rem 0;
@@ -33,8 +33,7 @@
     --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
 }
 
-/* Import Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap');
+/* Typography: Using Helvetica system font */
 
 /* Reset & Base */
 *,
