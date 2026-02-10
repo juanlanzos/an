@@ -15,15 +15,15 @@
             <div class="service-detail-grid">
                 <div class="service-detail-content">
                     <span class="section-badge">Servicio destacado</span>
-                    <h2>Revoques Proyectados</h2>
+                    <h2>REVOQUE PROYECTADO</h2>
                     <p>El revoque proyectado es una de las soluciones más eficientes para interiores en obra moderna. Aplicamos revoques cementicios 2en1, 3en1 y yeso monocapa con tecnología de proyección mecánica.</p>
                     
                     <ul class="benefits-list">
-                        <li><strong>Rapidez:</strong> Reduce plazos 50-70% vs. método tradicional</li>
-                        <li><strong>Terminación:</strong> Superficies lisas, uniformes y continuas</li>
-                        <li><strong>Economía:</strong> Menor mano de obra y desperdicio de material</li>
-                        <li><strong>Versatilidad:</strong> Compatible con hormigón, ladrillo, HCCA, bloques</li>
-                        <li><strong>Secado rápido:</strong> Permite continuar con etapas siguientes en menor tiempo</li>
+                        <li><span><strong>Rapidez</strong> Reduce plazos 50-70% vs. método tradicional</span></li>
+                        <li><span><strong>Terminación</strong> Superficies lisas, uniformes y continuas</span></li>
+                        <li><span><strong>Economía</strong> Menor mano de obra y desperdicio de material</span></li>
+                        <li><span><strong>Versatilidad</strong> Compatible con hormigón, ladrillo, HCCA, bloques</span></li>
+                        <li><span><strong>Secado rápido</strong> Permite continuar con etapas siguientes en menor tiempo</span></li>
                     </ul>
                     
                     <p>Ideal para obras con cronogramas ajustados, locales comerciales y viviendas.</p>
@@ -42,14 +42,14 @@
             <div class="service-detail-grid" style="direction: rtl;">
                 <div class="service-detail-content" style="direction: ltr;">
                     <span class="section-badge">Acabados premium</span>
-                    <h2>Microcemento</h2>
+                    <h2>MICROCEMENTO</h2>
                     <p>El microcemento es un revestimiento de capa fina que permite renovar superficies sin necesidad de demoler. Se aplica sobre azulejos, cerámicos y distintas bases, reduciendo escombros, polvo y tiempo de obra.</p>
                     
                     <ul class="benefits-list">
-                        <li><strong>Sin demolición:</strong> Aplicación sobre superficies existentes</li>
-                        <li><strong>Menos escombros:</strong> Obra más limpia y rápida</li>
-                        <li><strong>Acabados continuos:</strong> Sin juntas ni interrupciones</li>
-                        <li><strong>Personalizable:</strong> Variedad de colores y texturas</li>
+                        <li><span><strong>Sin demolición</strong> Aplicación sobre superficies existentes</span></li>
+                        <li><span><strong>Menos escombros</strong> Obra más limpia y rápida</span></li>
+                        <li><span><strong>Acabados continuos</strong> Sin juntas ni interrupciones</span></li>
+                        <li><span><strong>Personalizable</strong> Variedad de colores y texturas</span></li>
                     </ul>
                     
                     <h4>Aplicaciones</h4>
@@ -70,14 +70,14 @@
             <div class="service-detail-grid">
                 <div class="service-detail-content">
                     <span class="section-badge">Servicio completo</span>
-                    <h2>Reformas Integrales</h2>
+                    <h2>REFORMAS INTEGRALES</h2>
                     <p>Gestionamos y ejecutamos reformas completas con un método de trabajo claro. De la idea a la entrega, sin sorpresas.</p>
                     
                     <ul class="benefits-list">
-                        <li><strong>Relevamiento:</strong> Entendemos tu necesidad y visitamos el espacio</li>
-                        <li><strong>Propuesta:</strong> Presupuesto detallado con cronograma claro</li>
-                        <li><strong>Ejecución:</strong> Control diario y comunicación constante</li>
-                        <li><strong>Entrega:</strong> Obra terminada en tiempo y forma</li>
+                        <li><span><strong>Relevamiento</strong> Entendemos tu necesidad y visitamos el espacio</span></li>
+                        <li><span><strong>Propuesta</strong> Presupuesto detallado con cronograma claro</span></li>
+                        <li><span><strong>Ejecución</strong> Control diario y comunicación constante</span></li>
+                        <li><span><strong>Entrega</strong> Obra terminada en tiempo y forma</span></li>
                     </ul>
                     
                     <p>No improvisamos. Cada etapa está planificada para que puedas disfrutar el proceso sin estrés.</p>
@@ -96,14 +96,14 @@
             <div class="service-detail-grid" style="direction: rtl;">
                 <div class="service-detail-content" style="direction: ltr;">
                     <span class="section-badge">Para profesionales</span>
-                    <h2>Tu aliado en ejecución</h2>
+                    <h2>TU ALIADO EN EJECUCIÓN</h2>
                     <p>Si sos arquitecto o tenés un estudio, sabés que diseñar es solo una parte del trabajo. La ejecución define el resultado final.</p>
                     
                     <ul class="benefits-list">
-                        <li><strong>Ejecución según proyecto:</strong> Respetamos tu diseño al detalle</li>
-                        <li><strong>Dirección de obra:</strong> Control de procesos constructivos</li>
-                        <li><strong>Coordinación de gremios:</strong> Nos ocupamos de todos los oficios</li>
-                        <li><strong>Gestión de permisos:</strong> Trámites y documentación</li>
+                        <li><span><strong>Ejecución según proyecto</strong> Respetamos tu diseño al detalle</span></li>
+                        <li><span><strong>Dirección de obra</strong> Control de procesos constructivos</span></li>
+                        <li><span><strong>Coordinación de gremios</strong> Nos ocupamos de todos los oficios</span></li>
+                        <li><span><strong>Gestión de permisos</strong> Trámites y documentación</span></li>
                     </ul>
                     
                     <p><strong>Buscamos ser un aliado, no un competidor.</strong> Protegé tu diseño y tu reputación. Nosotros ejecutamos, vos dirigís.</p>

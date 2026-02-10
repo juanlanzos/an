@@ -10,7 +10,7 @@ $current_page = basename($_SERVER['PHP_SELF'], '.php');
     <meta name="description" content="Grupo AN Arquitectura & Construcción - Arquitectura con presencia real en obra. Diseño, gestión y ejecución sin sorpresas.">
     <meta name="keywords" content="arquitectura, construcción, reformas, revoques proyectados, microcemento, CABA, Buenos Aires, Grupo AN">
     <title><?php echo isset($page_title) ? $page_title . ' | Grupo AN' : 'Grupo AN - Arquitectura & Construcción'; ?></title>
-    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/styles.css?v=<?php echo time(); ?>">
     <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico">
 </head>
 <body>

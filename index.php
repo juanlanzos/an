@@ -5,7 +5,7 @@
     <section class="hero">
         <div class="container">
             <div class="hero-content">
-                <span class="hero-badge">Arquitectura & Construcción</span>
+
                 <h1>Arquitectura con <span>presencia real</span> en obra</h1>
                 <p class="hero-subtitle">Diseño, gestión y ejecución sin sorpresas. Transformamos tu espacio con control, claridad y compromiso.</p>
                 <div class="hero-buttons">
@@ -21,7 +21,7 @@
         <div class="container">
             <div class="section-header">
                 <span class="section-badge">¿Por qué elegirnos?</span>
-                <h2 class="section-title">Trabajamos diferente</h2>
+                <h2 class="section-title">Nuestro Trabajo</h2>
                 <p class="section-subtitle">Somos arquitectos con experiencia real en ejecución de obra. No dirigimos desde el escritorio.</p>
             </div>
             <div class="values-grid">
@@ -93,7 +93,7 @@
         <div class="container">
             <div class="about-grid">
                 <div class="about-image">
-                    <img src="assets/img/about-team.png" alt="Equipo Grupo AN" style="width: 100%; height: 400px; object-fit: cover; border-radius: 16px;">
+                    <img src="assets/img/about-new.jpg" alt="Equipo Grupo AN" style="width: 100%; height: 400px; object-fit: cover; border-radius: 16px;">
                     <div class="about-image-overlay">
                         <div class="number">+10</div>
                         <div class="label">Años de experiencia</div>

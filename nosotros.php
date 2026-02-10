@@ -13,8 +13,8 @@
     <section class="section">
         <div class="container">
             <div class="about-grid">
-                <div class=\"about-image\">
-                    <img src=\"assets/img/about-team.png\" alt=\"Equipo Grupo AN\" style=\"width: 100%; height: 450px; object-fit: cover; border-radius: 16px;\">
+                <div class="about-image">
+                    <img src="assets/img/nosotros-new-2.png" alt="Equipo Grupo AN" style="width: 100%; height: 450px; object-fit: cover; border-radius: 16px;">
                 </div>
                 <div class="about-content">
                     <h2>Arquitectura con presencia real en obra</h2>
@@ -34,7 +34,7 @@
                 <h2 class="section-title">Cómo trabajamos</h2>
                 <p class="section-subtitle">Un proceso claro desde la idea hasta la entrega final</p>
             </div>
-            <div class="services-grid">
+            <div class="services-grid grid-2-cols">
                 <div class="service-card">
                     <span class="service-number">01</span>
                     <h3>Relevamiento</h3>
