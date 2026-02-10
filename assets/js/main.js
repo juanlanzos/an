@@ -89,4 +89,20 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     }
+    // Carousel functionality
+    const track = document.querySelector('.carousel-track');
+    const prevBtn = document.querySelector('.carousel-btn.prev');
+    const nextBtn = document.querySelector('.carousel-btn.next');
+
+    if (track && prevBtn && nextBtn) {
+        prevBtn.addEventListener('click', () => {
+            const cardWidth = track.querySelector('.carousel-card').offsetWidth + 32; // width + gap (2rem = 32px)
+            track.scrollBy({ left: -cardWidth, behavior: 'smooth' });
+        });
+
+        nextBtn.addEventListener('click', () => {
+            const cardWidth = track.querySelector('.carousel-card').offsetWidth + 32;
+            track.scrollBy({ left: cardWidth, behavior: 'smooth' });
+        });
+    }
 });

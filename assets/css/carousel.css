@@ -1,0 +1,92 @@
+/* Carousel Styling */
+.carousel-wrapper {
+    position: relative;
+    padding: 0 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.carousel-container {
+    overflow: hidden;
+    padding: 1rem 0;
+    /* Space for shadows */
+}
+
+.carousel-track {
+    display: flex;
+    gap: 2rem;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    padding-bottom: 1rem;
+    scroll-behavior: smooth;
+}
+
+.carousel-track::-webkit-scrollbar {
+    display: none;
+}
+
+.carousel-card {
+    flex: 0 0 100%;
+    scroll-snap-align: center;
+    /* Inherits .service-card styles */
+}
+
+@media (min-width: 768px) {
+    .carousel-card {
+        flex: 0 0 calc(50% - 1rem);
+    }
+}
+
+@media (min-width: 1024px) {
+    .carousel-card {
+        flex: 0 0 calc(33.333% - 1.33rem);
+    }
+}
+
+.carousel-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: var(--white);
+    color: var(--primary);
+    border: 1px solid var(--border);
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    cursor: pointer;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    transition: all 0.3s;
+    box-shadow: var(--shadow-md);
+}
+
+.carousel-btn:hover {
+    background: var(--accent);
+    color: var(--white);
+    border-color: var(--accent);
+    box-shadow: var(--shadow-lg);
+}
+
+.carousel-btn.prev {
+    left: -20px;
+}
+
+.carousel-btn.next {
+    right: -20px;
+}
+
+@media (max-width: 768px) {
+    .carousel-btn {
+        display: none;
+        /* Hide buttons on mobile, allow touch scroll */
+    }
+
+    .carousel-wrapper {
+        padding: 0;
+    }
+}
