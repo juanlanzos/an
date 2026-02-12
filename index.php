@@ -17,107 +17,42 @@
     </div>
 </section>
 
-
-
-<<<<<<< HEAD
-    <!-- Value Proposition Section -->
-    <section class="section" style="background: var(--bg-light);">
-        <div class="container">
-            <div class="section-header" style="margin-bottom: 15px;">
-                <span class="section-badge">¿Por qué elegirnos?</span>
-                <h2 class="section-title">Nuestro Trabajo</h2>
-                <p class="section-subtitle">Somos una empresa que integra arquitectura, gestión de proyectos y ejecución de obra.<br>Nuestra especialización: sistemas modernos de revestimientos.</p>
-                <br>
-                <h3 style="font-size: 1.25rem; font-weight: 600; color: var(--primary);">Controlamos la obra desde el diseño hasta la última etapa:</h3>
-            </div>
-            <div class="values-grid values-grid-compact">
-                <div class="value-card value-card-compact">
-                    <div class="value-icon">
-                        <!-- Icon: Users/Coordination -->
-                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16"><path d="M7 14s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1H7zm4-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/><path fill-rule="evenodd" d="M5.216 14A2.238 2.238 0 0 1 5 13c0-1.355.68-2.75 1.936-3.72A6.325 6.325 0 0 0 5 9c-4 0-5 3-5 4s1 1 1 1h4.216z"/></svg>
-                    </div>
-                    <h4>Coordinación de gremios</h4>
-                </div>
-                <div class="value-card value-card-compact">
-                    <div class="value-icon">
-                        <!-- Icon: Clock/Planning -->
-                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16"><path d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71V3.5z"/><path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0z"/></svg>
-                    </div>
-                    <h4>Planificación de tiempos</h4>
-                </div>
-                <div class="value-card value-card-compact">
-                    <div class="value-icon">
-                        <!-- Icon: Layers/Systems -->
-                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16"><path d="M8.235 1.559a.5.5 0 0 0-.47 0l-7.5 4a.5.5 0 0 0 0 .882L3.188 8 .264 9.559a.5.5 0 0 0 0 .882l7.5 4a.5.5 0 0 0 .47 0l7.5-4a.5.5 0 0 0 0-.882L12.813 8l2.922-1.559a.5.5 0 0 0 0-.882l-7.5-4zM8 9.433 1.562 6 8 2.567 14.438 6 8 9.433z"/></svg>
-                    </div>
-                    <h4>Sistemas constructivos eficientes</h4>
-                </div>
-                <div class="value-card value-card-compact">
-                    <div class="value-icon">
-                        <!-- Icon: Star/Quality -->
-                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16"><path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"/></svg>
-                    </div>
-                    <h4>Terminaciones superiores</h4>
-                </div>
-            </div>
-
-=======
 <!-- Value Proposition Section -->
 <section class="section" style="background: var(--bg-light);">
     <div class="container">
-        <div class="section-header">
+        <div class="section-header" style="margin-bottom: 15px;">
             <span class="section-badge">¿Por qué elegirnos?</span>
             <h2 class="section-title">Nuestro Trabajo</h2>
-            <p class="section-subtitle">Somos una empresa que integra arquitectura, gestión de proyectos y ejecución de
-                obra.<br>Nuestra especialización: sistemas modernos de revestimientos.</p>
+            <p class="section-subtitle">Somos una empresa que integra arquitectura, gestión de proyectos y ejecución de obra.<br>Nuestra especialización: sistemas modernos de revestimientos.</p>
             <br>
-            <h3 style="font-size: 1.25rem; font-weight: 600; color: var(--primary);">Controlamos la obra desde el diseño
-                hasta la última etapa:</h3>
->>>>>>> e8ed1b4870e9acf78e359d88af26013e102a46ee
+            <h3 style="font-size: 1.25rem; font-weight: 600; color: var(--primary);">Controlamos la obra desde el diseño hasta la última etapa:</h3>
         </div>
         <div class="values-grid values-grid-compact">
             <div class="value-card value-card-compact">
                 <div class="value-icon">
                     <!-- Icon: Users/Coordination -->
-                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
-                        viewBox="0 0 16 16">
-                        <path d="M7 14s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1H7zm4-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" />
-                        <path fill-rule="evenodd"
-                            d="M5.216 14A2.238 2.238 0 0 1 5 13c0-1.355.68-2.75 1.936-3.72A6.325 6.325 0 0 0 5 9c-4 0-5 3-5 4s1 1 1 1h4.216z" />
-                    </svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16"><path d="M7 14s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1H7zm4-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/><path fill-rule="evenodd" d="M5.216 14A2.238 2.238 0 0 1 5 13c0-1.355.68-2.75 1.936-3.72A6.325 6.325 0 0 0 5 9c-4 0-5 3-5 4s1 1 1 1h4.216z"/></svg>
                 </div>
                 <h4>Coordinación de gremios</h4>
             </div>
             <div class="value-card value-card-compact">
                 <div class="value-icon">
                     <!-- Icon: Clock/Planning -->
-                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
-                        viewBox="0 0 16 16">
-                        <path d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71V3.5z" />
-                        <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0z" />
-                    </svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16"><path d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71V3.5z"/><path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0z"/></svg>
                 </div>
                 <h4>Planificación de tiempos</h4>
             </div>
             <div class="value-card value-card-compact">
                 <div class="value-icon">
                     <!-- Icon: Layers/Systems -->
-                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
-                        viewBox="0 0 16 16">
-                        <path
-                            d="M8.235 1.559a.5.5 0 0 0-.47 0l-7.5 4a.5.5 0 0 0 0 .882L3.188 8 .264 9.559a.5.5 0 0 0 0 .882l7.5 4a.5.5 0 0 0 .47 0l7.5-4a.5.5 0 0 0 0-.882L12.813 8l2.922-1.559a.5.5 0 0 0 0-.882l-7.5-4zM8 9.433 1.562 6 8 2.567 14.438 6 8 9.433z" />
-                    </svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16"><path d="M8.235 1.559a.5.5 0 0 0-.47 0l-7.5 4a.5.5 0 0 0 0 .882L3.188 8 .264 9.559a.5.5 0 0 0 0 .882l7.5 4a.5.5 0 0 0 .47 0l7.5-4a.5.5 0 0 0 0-.882L12.813 8l2.922-1.559a.5.5 0 0 0 0-.882l-7.5-4zM8 9.433 1.562 6 8 2.567 14.438 6 8 9.433z"/></svg>
                 </div>
                 <h4>Sistemas constructivos eficientes</h4>
             </div>
             <div class="value-card value-card-compact">
                 <div class="value-icon">
                     <!-- Icon: Star/Quality -->
-                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
-                        viewBox="0 0 16 16">
-                        <path
-                            d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
-                    </svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16"><path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"/></svg>
                 </div>
                 <h4>Terminaciones superiores</h4>
             </div>
