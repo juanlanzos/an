@@ -28,70 +28,70 @@
                             <img src="assets/img/project-clinica.png" alt="Clínica Favaloro" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">
                             <h3>Clínica Favaloro</h3>
                             <p>Reforma integral Av. Belgrano. Revoques proyectados en todo el edificio.</p>
-                            <span style="color: var(--accent); font-weight: 600;">Buenos Aires</span>
+                            <span class= "zona" >Buenos Aires</span>
                         </div>
                         
                         <div class="service-card carousel-card">
                             <img src="assets/img/project-banco.png" alt="Banco Santander" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">
                             <h3>Banco Santander</h3>
                             <p>Business Center. Ejecución completa de terminaciones interiores.</p>
-                            <span style="color: var(--accent); font-weight: 600;">CABA</span>
+                            <span class= "zona" >CABA</span>
                         </div>
                         
                         <div class="service-card carousel-card">
                             <img src="assets/img/project-oficinas.png" alt="Oficinas BBVA" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">
                             <h3>Oficinas BBVA</h3>
                             <p>Colaboración con Kalpakian. Terminaciones y revoques especiales.</p>
-                            <span style="color: var(--accent); font-weight: 600;">Capital Federal</span>
+                            <span class= "zona" >Capital Federal</span>
                         </div>
 
                         <div class="service-card carousel-card">
                             <img src="assets/img/project-oficinas.png" alt="Obra Echeverría" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">
                             <h3>Obra Echeverría</h3>
                             <p>Renovación integral residencial. Diseño moderno y funcional.</p>
-                            <span style="color: var(--accent); font-weight: 600;">CABA</span>
+                            <span class= "zona" >CABA</span>
                         </div>
 
                         <div class="service-card carousel-card">
                             <img src="assets/img/project-banco.png" alt="Obra Colegiales" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">
                             <h3>Obra Colegiales</h3>
                             <p>Proyecto de arquitectura interior y gestión de obra.</p>
-                            <span style="color: var(--accent); font-weight: 600;">Colegiales</span>
+                            <span class= "zona" >Colegiales</span>
                         </div>
 
                         <div class="service-card carousel-card">
                             <img src="assets/img/project-clinica.png" alt="Obra Retiro" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">
                             <h3>Obra Retiro</h3>
                             <p>Remodelación de espacios de alta categoría.</p>
-                            <span style="color: var(--accent); font-weight: 600;">Retiro</span>
+                            <span class= "zona" >Retiro</span>
                         </div>
 
                         <div class="service-card carousel-card">
                             <img src="assets/img/project-oficinas.png" alt="Obra Palermo" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">
                             <h3>Obra Palermo</h3>
                             <p>Diseño y ejecución de interiores en departamento moderno.</p>
-                            <span style="color: var(--accent); font-weight: 600;">Palermo</span>
+                            <span class= "zona" >Palermo</span>
                         </div>
 
                         <div class="service-card carousel-card">
                             <img src="assets/img/project-banco.png" alt="Obra Cramer" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">
                             <h3>Obra Cramer</h3>
                             <p>Reforma completa. Transformación total del espacio.</p>
-                            <span style="color: var(--accent); font-weight: 600;">Belgrano</span>
+                            <span class= "zona" >Belgrano</span>
                         </div>
 
                         <div class="service-card carousel-card">
                             <img src="assets/img/project-clinica.png" alt="Obra Amenabar" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">
                             <h3>Obra Amenabar</h3>
                             <p>Reforma integral de cocina y áreas comunes.</p>
-                            <span style="color: var(--accent); font-weight: 600;">Belgrano</span>
+                            <span class= "zona" >Belgrano</span>
                         </div>
 
                         <div class="service-card carousel-card">
                             <img src="assets/img/service-microcemento.png" alt="Microcemento en Cocina" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">
                             <h3>Microcemento en Cocina</h3>
                             <p>Aplicación de microcemento para un acabado continuo y moderno.</p>
-                            <span style="color: var(--accent); font-weight: 600;">Terminaciones</span>
+                            <span class= "zona" >Terminaciones</span>
                         </div>
                     </div>
                 </div>

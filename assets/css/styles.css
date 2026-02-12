@@ -66,7 +66,7 @@ h5,
 h6 {
     font-family: var(--font-heading);
     font-weight: 700;
-    line-height: 1.2;
+    line-height: 1.1;
     color: var(--primary);
 }
 
@@ -322,7 +322,7 @@ img {
 
 .section-header {
     text-align: center;
-    max-width: 700px;
+    max-width: 710px;
     margin: 0 auto 4rem;
 }
 
@@ -574,7 +574,9 @@ img {
     content: '✓';
     width: 24px;
     height: 24px;
-    background: rgba(201, 162, 39, 0.15);
+    flex-shrink: 0;
+    background: transparent;
+    border: 2px solid var(--accent);
     color: var(--accent);
     border-radius: 50%;
     display: flex;
@@ -986,7 +988,9 @@ img {
 .carousel-container {
     overflow: hidden;
     padding: 1rem 0;
-    /* Space for shadows */
+    display: inline-block;
+    max-width: 1000px;
+    margin: 0 22px;
 }
 
 .carousel-track {
@@ -1010,6 +1014,13 @@ img {
     /* Inherits .service-card styles */
 }
 
+.zona {
+    position: absolute;
+    bottom: 34px;
+    color: var(--accent);
+    font-weight: 600;
+}
+
 @media (min-width: 768px) {
     .carousel-card {
         flex: 0 0 calc(50% - 1rem);
@@ -1025,8 +1036,10 @@ img {
 }
 
 .carousel-btn {
-    position: absolute;
-    top: 970px;
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 300px;
     /* Raised 80px from 1050px */
     transform: translateY(-50%);
     background: #ffffff;
@@ -1037,7 +1050,6 @@ img {
     border-radius: 50%;
     cursor: pointer;
     z-index: 100;
-    display: flex;
     align-items: center;
     justify-content: center;
     transition: all 0.3s;
@@ -1052,12 +1064,12 @@ img {
 }
 
 .carousel-btn.prev {
-    left: 200px;
+
     /* 200px inward margin */
 }
 
 .carousel-btn.next {
-    right: 200px;
+
     /* 200px inward margin */
 }
 

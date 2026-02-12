@@ -21,7 +21,7 @@
     <!-- Value Proposition Section -->
     <section class="section" style="background: var(--bg-light);">
         <div class="container">
-            <div class="section-header">
+            <div class="section-header" style="margin-bottom: 15px;">
                 <span class="section-badge">¿Por qué elegirnos?</span>
                 <h2 class="section-title">Nuestro Trabajo</h2>
                 <p class="section-subtitle">Somos una empresa que integra arquitectura, gestión de proyectos y ejecución de obra.<br>Nuestra especialización: sistemas modernos de revestimientos.</p>
