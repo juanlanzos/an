@@ -80,12 +80,7 @@
                             <span class= "zona" >Belgrano</span>
                         </div>
 
-                        <div class="service-card carousel-card">
-                            <img src="assets/img/project-clinica.png" alt="Obra Amenabar" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">
-                            <h3>Obra Amenabar</h3>
-                            <p>Reforma integral de cocina y áreas comunes.</p>
-                            <span class= "zona" >Belgrano</span>
-                        </div>
+
 
                         <div class="service-card carousel-card">
                             <img src="assets/img/service-microcemento.png" alt="Microcemento en Cocina" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">

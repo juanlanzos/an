@@ -19,7 +19,7 @@ $current_page = basename($_SERVER['PHP_SELF'], '.php');
         <div class="container">
             <nav class="nav">
                 <a href="index.php" class="nav-logo">
-                    <img src="assets/img/logo.png" alt="Grupo AN" style="height: 60px; width: auto;">
+                    <img src="assets/img/logo.png" alt="Grupo AN" style="height: 70px; width: auto;">
                 </a>
                 <ul class="nav-menu">
                     

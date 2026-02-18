@@ -103,7 +103,7 @@
                         <li><span><strong>Ejecución según proyecto</strong> Respetamos tu diseño al detalle</span></li>
                         <li><span><strong>Dirección de obra</strong> Control de procesos constructivos</span></li>
                         <li><span><strong>Coordinación de gremios</strong> Nos ocupamos de todos los oficios</span></li>
-                        <li><span><strong>Gestión de permisos</strong> Trámites y documentación</span></li>
+                        <li><span><strong>Método Lean Construcción</strong>Last planner System en obra</span></li>
                     </ul>
                     
                     <p><strong>Buscamos ser un aliado, no un competidor.</strong> Protegé tu diseño y tu reputación. Nosotros ejecutamos, vos dirigís.</p>
