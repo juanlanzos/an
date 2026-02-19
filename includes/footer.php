@@ -4,7 +4,7 @@
             <div class="footer-grid">
                 <div class="footer-brand">
                     <a href="index.php" class="nav-logo">
-                        <img src="assets/img/logo.png" alt="Grupo AN" style="height: 40px; width: auto; filter: brightness(0) invert(1);">
+                        <img src="assets/img/logo.png" alt="Grupo AN" style="height: 90px; width: auto; filter: brightness(0) invert(1);">
                     </a>
                     <p>Planificación . Construcción . Control de Obra</p>
                 </div>

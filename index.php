@@ -7,8 +7,8 @@
         <div class="hero-content">
 
             <h1>Arquitectura con <span>presencia real</span> en obra</h1>
-            <p class="hero-subtitle">Especialistas en microcementos, revoques proyectados, cementicios 2en1, 3en1 y
-                yeso monocapa.<br>Controlamos la ejecución y garantizamos terminaciones de alta calidad.</p>
+            <p class="hero-subtitle" style="max-width: 750px;">Especialistas en microcementos, revoques proyectados, cementicios 2en1, 3en1 y
+                yeso&nbsp;monocapa.<br>Controlamos la ejecución y garantizamos terminaciones de alta calidad.</p>
             <div class="hero-buttons">
                 <a href="contacto.php" class="btn btn-primary">Solicitá tu presupuesto</a>
                 <a href="servicios.php" class="btn btn-secondary">Conocé nuestros servicios</a>
