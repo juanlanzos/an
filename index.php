@@ -101,8 +101,9 @@
     <div class="container">
         <div class="about-grid">
             <div class="about-image">
-                <img src="assets/img/arquitectura-real.jpg" alt="Arquitectura con presencia real"
-                    style="width: 100%; height: 400px; object-fit: cover; border-radius: 16px;">
+                <div class="about-image-inner">
+                    <img src="assets/img/casa moderna.jpeg" alt="Arquitectura con presencia real" class="about-image-main">
+                </div>
                 <div class="about-image-overlay">
                     <div class="number">+10</div>
                     <div class="label">Años de experiencia</div>

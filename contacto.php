@@ -2,7 +2,7 @@
 <?php include 'includes/header.php'; ?>
 
     <!-- Page Header -->
-    <section class="page-header">
+    <section class="page-header header-contacto">
         <div class="container">
             <h1>Contacto</h1>
             <p>¿Tenés un proyecto en mente? Contanos qué necesitás y te respondemos en 24 horas hábiles.</p>
@@ -33,7 +33,7 @@
                         </div>
                         <div>
                             <h4>WhatsApp</h4>
-                            <p><a href="https://wa.me/5491112345678">+54 9 11 1234-5678</a></p>
+                            <p><a href="https://wa.me/+5491137758726">+54 9 11 3775-8726</a></p>
                         </div>
                     </div>
                     

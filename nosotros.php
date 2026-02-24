@@ -2,7 +2,7 @@
 <?php include 'includes/header.php'; ?>
 
     <!-- Page Header -->
-    <section class="page-header">
+    <section class="page-header header-nosotros">
         <div class="container">
             <h1>Quiénes Somos</h1>
             <p>Arquitectos con experiencia real en ejecución, gestión y control de obra.</p>

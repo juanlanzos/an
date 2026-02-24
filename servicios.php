@@ -2,7 +2,7 @@
 <?php include 'includes/header.php'; ?>
 
     <!-- Page Header -->
-    <section class="page-header">
+    <section class="page-header header-servicios">
         <div class="container">
             <h1>Nuestros Servicios</h1>
             <p>Soluciones constructivas integrales para propietarios y estudios de arquitectura.</p>
@@ -84,7 +84,7 @@
                     <a href="contacto.php" class="btn btn-primary">Solicitar presupuesto</a>
                 </div>
                 <div>
-                    <img src="assets/img/service-reforma.png" alt="Reformas Integrales" style="width: 100%; height: 450px; object-fit: cover; border-radius: 16px;">
+                    <img src="assets/img/ANTES-DESPUES.png" alt="Reformas Integrales - Antes y Después" style="width: 100%; height: 450px; object-fit: cover; border-radius: 16px;">
                 </div>
             </div>
         </div>

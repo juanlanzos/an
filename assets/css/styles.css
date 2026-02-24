@@ -518,9 +518,21 @@ img {
     position: relative;
 }
 
-.about-image-main {
+.about-image-inner {
     border-radius: 16px;
+    overflow: hidden;
     box-shadow: var(--shadow-xl);
+    position: relative;
+    z-index: 1;
+}
+
+.about-image-main {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    display: block;
+    transform: scale(1.02);
+    /* Escalar ligeramente para ocultar línea de borde del archivo original */
 }
 
 .about-image-overlay {
@@ -533,6 +545,7 @@ img {
     border-radius: 12px;
     text-align: center;
     box-shadow: var(--shadow-xl);
+    z-index: 2;
 }
 
 .about-image-overlay .number {
@@ -818,8 +831,8 @@ img {
     position: fixed;
     bottom: 30px;
     right: 30px;
-    width: 60px;
-    height: 60px;
+    width: 75px;
+    height: 75px;
     background: #25d366;
     border-radius: 50%;
     display: flex;
@@ -862,11 +875,37 @@ img {
     background: linear-gradient(135deg, var(--primary) 0%, var(--bg-dark) 100%);
     text-align: center;
     color: var(--white);
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.page-header::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.2;
+    filter: saturate(15%);
+    z-index: -1;
+    pointer-events: none;
+}
+
+.page-header .container {
+    position: relative;
+    z-index: 2;
 }
 
 .page-header h1 {
     color: var(--white);
     margin-bottom: 1rem;
+    position: relative;
+    z-index: 3;
 }
 
 .page-header p {
@@ -874,6 +913,24 @@ img {
     font-size: 1.25rem;
     max-width: 600px;
     margin: 0 auto;
+    position: relative;
+    z-index: 3;
+}
+
+.header-nosotros::before {
+    background-image: url('../img/nosotros.jpg');
+}
+
+.header-proyectos::before {
+    background-image: url('../img/proyectos.jpg');
+}
+
+.header-servicios::before {
+    background-image: url('../img/servicios.jpg');
+}
+
+.header-contacto::before {
+    background-image: url('../img/contacto.jpg');
 }
 
 /* Service Detail */
@@ -1063,14 +1120,17 @@ img {
     box-shadow: var(--shadow-lg);
 }
 
-.carousel-btn.prev {
 
-    /* 200px inward margin */
+
+/* Carousel navigation button markers (placeholder comments) */
+.carousel-btn.prev {
+    /* 200px inward margin marker */
+    visibility: visible;
 }
 
 .carousel-btn.next {
-
-    /* 200px inward margin */
+    /* 200px inward margin marker */
+    visibility: visible;
 }
 
 @media (max-width: 768px) {

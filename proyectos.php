@@ -2,7 +2,7 @@
 <?php include 'includes/header.php'; ?>
 
     <!-- Page Header -->
-    <section class="page-header">
+    <section class="page-header header-proyectos">
         <div class="container">
             <h1>Proyectos</h1>
             <p>Conocé algunos de los trabajos que hemos realizado.</p>
