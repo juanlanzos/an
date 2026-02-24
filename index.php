@@ -102,7 +102,7 @@
         <div class="about-grid">
             <div class="about-image">
                 <div class="about-image-inner">
-                    <img src="assets/img/casa moderna.jpeg" alt="Arquitectura con presencia real" class="about-image-main">
+                    <img src="assets/img/casa%20moderna.jpeg" alt="Arquitectura con presencia real" class="about-image-main">
                 </div>
                 <div class="about-image-overlay">
                     <div class="number">+10</div>
