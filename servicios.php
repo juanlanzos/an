@@ -16,6 +16,9 @@
                 <div class="service-detail-content">
                     <span class="section-badge">Servicio destacado</span>
                     <h2>REVOQUE PROYECTADO</h2>
+                    <div class="service-image-wrapper">
+                        <img src="assets/img/Revoque-proyectable.jpeg" alt="Revoques Proyectados">
+                    </div>
                     <p>El revoque proyectado es una de las soluciones más eficientes para interiores en obra moderna. Aplicamos revoques cementicios 2en1, 3en1 y yeso monocapa con tecnología de proyección mecánica.</p>
                     
                     <ul class="benefits-list">
@@ -29,9 +32,6 @@
                     <p>Ideal para obras con cronogramas ajustados, locales comerciales y viviendas.</p>
                     <a href="contacto.php" class="btn btn-primary">Solicitar presupuesto</a>
                 </div>
-                <div style="margin-top: 21rem;">
-                    <img src="assets/img/Revoque-proyectable.jpeg" alt="Revoques Proyectados" style="width: 100%; height: 450px; object-fit: cover; border-radius: 16px;">
-                </div>
             </div>
         </div>
     </section>
@@ -43,6 +43,9 @@
                 <div class="service-detail-content" style="direction: ltr;">
                     <span class="section-badge">Acabados premium</span>
                     <h2>MICROCEMENTO</h2>
+                    <div class="service-image-wrapper">
+                        <img src="assets/img/service-microcemento.png" alt="Microcemento">
+                    </div>
                     <p>El microcemento es un revestimiento de capa fina que permite renovar superficies sin necesidad de demoler. Se aplica sobre azulejos, cerámicos y distintas bases, reduciendo escombros, polvo y tiempo de obra.</p>
                     
                     <ul class="benefits-list">
@@ -57,9 +60,6 @@
                     
                     <a href="contacto.php" class="btn btn-primary">Solicitar presupuesto</a>
                 </div>
-                <div style="direction: ltr;">
-                    <img src="assets/img/service-microcemento.png" alt="Microcemento" style="width: 100%; height: 450px; object-fit: cover; border-radius: 16px;">
-                </div>
             </div>
         </div>
     </section>
@@ -71,6 +71,9 @@
                 <div class="service-detail-content">
                     <span class="section-badge">Servicio completo</span>
                     <h2>REFORMAS INTEGRALES</h2>
+                    <div class="service-image-wrapper">
+                        <img src="assets/img/ANTES-DESPUES.png" alt="Reformas Integrales - Antes y Después">
+                    </div>
                     <p>Gestionamos y ejecutamos reformas completas con un método de trabajo claro. De la idea a la entrega, sin sorpresas.</p>
                     
                     <ul class="benefits-list">
@@ -83,9 +86,6 @@
                     <p>No improvisamos. Cada etapa está planificada para que puedas disfrutar el proceso sin estrés.</p>
                     <a href="contacto.php" class="btn btn-primary">Solicitar presupuesto</a>
                 </div>
-                <div>
-                    <img src="assets/img/ANTES-DESPUES.png" alt="Reformas Integrales - Antes y Después" style="width: 100%; height: 450px; object-fit: cover; border-radius: 16px;">
-                </div>
             </div>
         </div>
     </section>
@@ -97,6 +97,9 @@
                 <div class="service-detail-content" style="direction: ltr;">
                     <span class="section-badge">Para profesionales</span>
                     <h2>TU ALIADO EN EJECUCIÓN</h2>
+                    <div class="service-image-wrapper">
+                        <img src="assets/img/about-new.jpg" alt="Servicios B2B">
+                    </div>
                     <p>Si sos arquitecto o tenés un estudio, sabés que diseñar es solo una parte del trabajo. La ejecución define el resultado final.</p>
                     
                     <ul class="benefits-list">
@@ -108,9 +111,6 @@
                     
                     <p><strong>Buscamos ser un aliado, no un competidor.</strong> Protegé tu diseño y tu reputación. Nosotros ejecutamos, vos dirigís.</p>
                     <a href="contacto.php" class="btn btn-primary">Conversemos</a>
-                </div>
-                <div style="direction: ltr;">
-                    <img src="assets/img/about-new.jpg" alt="Servicios B2B" style="width: 100%; height: 450px; object-fit: cover; border-radius: 16px;">
                 </div>
             </div>
         </div>

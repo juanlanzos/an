@@ -824,6 +824,17 @@ img {
     .section {
         padding: 4rem 0;
     }
+
+    /* Prevent image cropping on mobile */
+    .about-image-main,
+    .about-grid img,
+    .service-detail-grid img,
+    .carousel-card img,
+    .about-image img {
+        height: auto !important;
+        object-fit: initial !important;
+        max-height: none !important;
+    }
 }
 
 /* WhatsApp Button */
@@ -933,11 +944,7 @@ img {
     background-image: url('../img/contacto.jpg');
 }
 
-/* Service Detail */
-.service-detail {
-    padding: 4rem 0;
-}
-
+/* Service Detail Grid */
 .service-detail-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -945,15 +952,78 @@ img {
     align-items: start;
 }
 
-/* Margin to align image with the list items (skipping title/desc) */
-.service-detail-grid>div:last-child {
-    margin-top: 15.5rem;
-    /* Adjusted up slightly per user request */
+@media (max-width: 768px) {
+    .service-detail-grid {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+}
+
+.service-image-wrapper {
+    margin-bottom: 2rem;
+}
+
+.service-image-wrapper img {
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
+    border-radius: 16px;
+    display: block;
+}
+
+@media (min-width: 769px) {
+    .service-detail-content {
+        display: contents;
+        /* Children join the service-detail-grid */
+    }
+
+    /* Column 1: Badge, Title, Text, List, Button */
+    .service-detail-content>.section-badge,
+    .service-detail-content>h2,
+    .service-detail-content>p,
+    .service-detail-content>h4,
+    .service-detail-content>.benefits-list,
+    .service-detail-content>.btn {
+        grid-column: 1;
+    }
+
+    /* Column 2: Image Wrapper */
+    .service-detail-content>.service-image-wrapper {
+        grid-column: 2;
+        grid-row: 1 / span 20;
+        /* Ensure it stays on the right */
+        margin-bottom: 0;
+        margin-top: 5rem;
+        /* Adjust alignment to be below badge/title start */
+    }
+
+    /* Handle RTL sections */
+    .service-detail-grid[style*="direction: rtl"] .service-detail-content>.section-badge,
+    .service-detail-grid[style*="direction: rtl"] .service-detail-content>h2,
+    .service-detail-grid[style*="direction: rtl"] .service-detail-content>p,
+    .service-detail-grid[style*="direction: rtl"] .service-detail-content>h4,
+    .service-detail-grid[style*="direction: rtl"] .service-detail-content>.benefits-list,
+    .service-detail-grid[style*="direction: rtl"] .service-detail-content>.btn {
+        grid-column: 2;
+    }
+
+    .service-detail-grid[style*="direction: rtl"] .service-detail-content>.service-image-wrapper {
+        grid-column: 1;
+    }
 }
 
 @media (max-width: 768px) {
-    .service-detail-grid>div:last-child {
-        margin-top: 0;
+    .service-detail-content h2 {
+        margin-bottom: 1rem;
+    }
+
+    .service-image-wrapper {
+        margin-bottom: 1.5rem;
+    }
+
+    .service-image-wrapper img {
+        height: auto;
+        object-fit: initial;
     }
 }
 
@@ -1140,5 +1210,38 @@ img {
 
     .carousel-wrapper {
         padding: 0;
+    }
+
+    .carousel-container {
+        margin: 0 1rem !important;
+        display: block !important;
+    }
+
+    .carousel-track {
+        gap: 1rem !important;
+        padding-left: 0.5rem;
+        /* Allow first card to have some breathing room from left */
+    }
+
+    .carousel-card {
+        flex: 0 0 85% !important;
+        scroll-snap-align: start !important;
+    }
+
+    /* Restore uniform image heights for carousel thumbnails */
+    .carousel-card img {
+        height: 200px !important;
+        object-fit: cover !important;
+        margin-bottom: 1rem !important;
+        width: 100% !important;
+    }
+
+    .carousel-card h3 {
+        margin-bottom: 0.5rem;
+        font-size: 1.25rem;
+    }
+
+    .carousel-card p {
+        font-size: 0.95rem;
     }
 }
