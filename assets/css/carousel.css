@@ -33,6 +33,19 @@
     /* Inherits .service-card styles */
 }
 
+.carousel-card p {
+    font-size: 0.9rem;
+    line-height: 1.4;
+    margin-bottom: 1.5rem;
+    height: 4.2em;
+    /* Ensure all cards have the same description height */
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
 @media (min-width: 768px) {
     .carousel-card {
         flex: 0 0 calc(50% - 1rem);

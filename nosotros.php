@@ -17,10 +17,10 @@
                     <img src="assets/img/nosotros-new-2.png" alt="Equipo Grupo AN" style="width: 100%; height: 450px; object-fit: cover; border-radius: 16px;">
                 </div>
                 <div class="about-content">
-                    <h2>Arquitectura con presencia real en obra</h2>
+                    <h2>Arquitectura & Construcción</h2>
                     <p>En Grupo AN creemos que una obra no tiene por qué ser sinónimo de caos. Somos arquitectos con experiencia real en ejecución, gestión y control de obra.</p>
-                    <p>Nuestro diferencial es simple: <strong>estamos presentes</strong>. No dirigimos obras desde el escritorio. Conocemos cada etapa constructiva porque las hemos vivido en el terreno.</p>
-                    <p>Trabajamos tanto con propietarios que buscan reformar su vivienda como con estudios de arquitectura que necesitan un aliado confiable para ejecutar sus proyectos.</p>
+                    <p>Nuestro diferencial es simple: <strong>estamos presentes</strong>. Conocemos cada etapa constructiva porque las hemos vivido en el terreno.</p>
+                    <p>Trabajamos tanto con propietarios que buscan construir y reformar su vivienda como con estudios de arquitectura y desarrolladores que necesitan un aliado confiable para ejecutar sus proyectos.</p>
                 </div>
             </div>
         </div>

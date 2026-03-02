@@ -27,21 +27,21 @@
                         <div class="service-card carousel-card">
                             <img src="assets/img/favaloro.jpg" alt="Clínica Favaloro" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">
                             <h3>Clínica Favaloro</h3>
-                            <p>Reforma integral Av. Belgrano. Revoques proyectados en todo el edificio.</p>
+                            <p>Demoliciones y ejecución de obra, con especial atención en el control de polvos en ámbito hospitalario</p>
                             <span class= "zona" >Buenos Aires</span>
                         </div>
                         
                         <div class="service-card carousel-card">
                             <img src="assets/img/santander.jpg" alt="Banco Santander" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">
                             <h3>Banco Santander</h3>
-                            <p>Business Center. Ejecución completa de terminaciones interiores.</p>
+                            <p>Reforma integral, demolición y ejecución de arquitectura y terminaciones</p>
                             <span class= "zona" >CABA</span>
                         </div>
                         
                         <div class="service-card carousel-card">
                             <img src="assets/img/BBVA%20FRANCES.jpg" alt="Oficinas BBVA" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">
                             <h3>Oficinas BBVA</h3>
-                            <p>Colaboración con Kalpakian. Terminaciones y revoques especiales.</p>
+                            <p>Ejecución y montaje de divisiones de oficinas con sistema Dynamobel</p>
                             <span class= "zona" >Capital Federal</span>
                         </div>
 
@@ -62,7 +62,7 @@
                         <div class="service-card carousel-card">
                             <img src="assets/img/retiro.jpg" alt="Obra Retiro" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">
                             <h3>Obra Retiro</h3>
-                            <p>Remodelación de espacios de alta categoría.</p>
+                            <p>Coordinación y gestión de subcontratos de hormigón, albañilería, steel frame e instalaciones domiciliarias.</p>
                             <span class= "zona" >Retiro</span>
                         </div>
 
