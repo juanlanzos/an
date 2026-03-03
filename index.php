@@ -6,7 +6,7 @@
     <div class="container">
         <div class="hero-content">
 
-            <h1>Arquitectura con <span>presencia real</span> en obra</h1>
+            <h1>Arquitectura & <span>Construcción</span></h1>
             <p class="hero-subtitle" style="max-width: 750px;">Especialistas en microcementos, revoques proyectados, cementicios 2en1, 3en1 y
                 yeso&nbsp;monocapa.<br>Controlamos la ejecución y garantizamos terminaciones de alta calidad.</p>
             <div class="hero-buttons">
