@@ -18,9 +18,9 @@
                 </div>
                 <div class="about-content">
                     <h2>Arquitectura & Construcción</h2>
-                    <p>En Grupo AN creemos que una obra no tiene por qué ser sinónimo de caos. Somos arquitectos con experiencia real en ejecución, gestión y control de obra.</p>
-                    <p>Nuestro diferencial es simple: <strong>estamos presentes</strong>. Conocemos cada etapa constructiva porque las hemos vivido en el terreno.</p>
-                    <p>Trabajamos tanto con propietarios que buscan construir y reformar su vivienda como con estudios de arquitectura y desarrolladores que necesitan un aliado confiable para ejecutar sus proyectos.</p>
+                    <p>En Grupo AN creemos que una obra no tiene por qué ser sinónimo de caos. Somos arquitectos con experiencia en ejecución, gestión y control de obra.</p>
+                    <p>Conocemos cada etapa constructiva porque las hemos vivido en el terreno.</p>
+                    <p>Trabajamos con propietarios que buscan construir y reformar su vivienda, con estudios de arquitectura y desarrolladores que necesitan un aliado confiable para ejecutar sus proyectos.</p>
                 </div>
             </div>
         </div>
