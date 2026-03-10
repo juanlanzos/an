@@ -56,7 +56,7 @@
                     </div>
                     <div>
                         <h4>Email</h4>
-                        <p><a href="mailto:info@grupoan.com">info@grupoan.com</a></p>
+                        <p><a href="mailto:info@grupoan.com.ar">info@grupoan.com.ar</a></p>
                     </div>
                 </div>
 

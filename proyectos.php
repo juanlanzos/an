@@ -28,42 +28,42 @@
                             <img src="assets/img/favaloro.jpg" alt="Clínica Favaloro" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">
                             <h3>Clínica Favaloro</h3>
                             <p>Demoliciones y ejecución de obra, con especial atención en el control de polvos en ámbito hospitalario</p>
-                            <span class= "zona" >Buenos Aires</span>
+                            <span class="zona">Buenos Aires</span>
                         </div>
                         
                         <div class="service-card carousel-card">
                             <img src="assets/img/santander.jpg" alt="Banco Santander" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">
                             <h3>Banco Santander</h3>
                             <p>Reforma integral, demolición y ejecución de arquitectura y terminaciones</p>
-                            <span class= "zona" >CABA</span>
+                            <span class="zona">CABA</span>
                         </div>
                         
                         <div class="service-card carousel-card">
                             <img src="assets/img/BBVA%20FRANCES.jpg" alt="Oficinas BBVA" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">
                             <h3>Oficinas BBVA</h3>
                             <p>Ejecución y montaje de divisiones de oficinas con sistema Dynamobel</p>
-                            <span class= "zona" >Capital Federal</span>
+                            <span class="zona">Capital Federal</span>
                         </div>
 
                         <div class="service-card carousel-card">
                             <img src="assets/img/cocina_grande.jpg" alt="Obra Echeverría" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">
                             <h3>Obra Echeverría</h3>
                             <p>Renovación integral residencial. Diseño moderno y funcional.</p>
-                            <span class= "zona" >CABA</span>
+                            <span class="zona">CABA</span>
                         </div>
 
                         <div class="service-card carousel-card">
                             <img src="assets/img/slider_04_gym.webp" alt="Obra Colegiales" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">
                             <h3>Obra Colegiales</h3>
                             <p>Proyecto de arquitectura interior y gestión de obra.</p>
-                            <span class= "zona" >Colegiales</span>
+                            <span class="zona">Colegiales</span>
                         </div>
 
                         <div class="service-card carousel-card">
                             <img src="assets/img/retiro.jpg" alt="Obra Retiro" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">
                             <h3>Obra Retiro</h3>
                             <p>Coordinación y gestión de subcontratos de hormigón, albañilería, steel frame e instalaciones domiciliarias.</p>
-                            <span class= "zona" >Retiro</span>
+                            <span class="zona">Retiro</span>
                         </div>
 
 
@@ -72,7 +72,7 @@
                             <img src="assets/img/Dormitorio%201.jfif" alt="Obra Cramer" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">
                             <h3>Obra Cramer</h3>
                             <p>Reforma completa. Transformación total del espacio.</p>
-                            <span class= "zona" >Belgrano</span>
+                            <span class="zona">Belgrano</span>
                         </div>
 
 
@@ -81,7 +81,7 @@
                             <img src="assets/img/cocina.webp" alt="Microcemento en Cocina" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;">
                             <h3>Microcemento en Cocina</h3>
                             <p>Aplicación de microcemento para un acabado continuo y moderno.</p>
-                            <span class= "zona" >Terminaciones</span>
+                            <span class="zona">Terminaciones</span>
                         </div>
                     </div>
                 </div>

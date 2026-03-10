@@ -29,7 +29,7 @@
                 <div class="footer-column">
                     <h4>Contacto</h4>
                     <ul class="footer-links">
-                        <li><a href="mailto:info@grupoan.com">info@grupoan.com</a></li>
+                        <li><a href="mailto:info@grupoan.com.ar">info@grupoan.com.ar</a></li>
                         <li><a href="tel:+5491137758726">+54 9 11 3775-8726</a></li>
                         <li>CABA y GBA, Argentina</li>
                     </ul>
