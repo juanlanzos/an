@@ -681,6 +681,7 @@ img {
 }
 
 .contact-section {
+    padding-top: 8rem;
     background:
         radial-gradient(circle at top left, rgba(92, 188, 213, 0.1), transparent 28%),
         linear-gradient(180deg, #ffffff 0%, #f3f6f7 100%);

@@ -1,20 +1,6 @@
 <?php $page_title = 'Contacto'; ?>
 <?php include 'includes/header.php'; ?>
 
-<section class="contact-hero">
-    <div class="contact-hero-media">
-        <img src="assets/img/contacto.jpg" alt="Espacio de trabajo y planificación arquitectónica">
-    </div>
-    <div class="container">
-        <div class="contact-hero-content">
-            <span class="section-badge contact-hero-badge">Canales de atención</span>
-            <h1>Contacto</h1>
-            <p>¿Tenés un proyecto en mente? Estamos listos para acompañarte con planificación, ejecución y terminaciones
-                de alta calidad.</p>
-        </div>
-    </div>
-</section>
-
 <section class="section contact-section">
     <div class="container">
         <div class="contact-layout">
