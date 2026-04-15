@@ -105,23 +105,23 @@
                 <form id="contactForm" class="contact-modern-form">
                     <div class="contact-modern-grid">
                         <div class="contact-modern-field">
-                            <label for="nombre">Nombre completo</label>
-                            <input id="nombre" name="nombre" type="text" placeholder="Ej. Juan Pérez">
+                            <label for="nombreCompleto">Nombre completo</label>
+                            <input id="nombreCompleto" name="Nombre Completo" type="text" placeholder="Ej. Juan Pérez">
                         </div>
 
                         <div class="contact-modern-field">
-                            <label for="email">Email</label>
-                            <input id="email" name="email" type="email" placeholder="juan@ejemplo.com">
+                            <label for="correoElectronico">Email</label>
+                            <input id="correoElectronico" name="Correo electronico" type="email" placeholder="juan@ejemplo.com">
                         </div>
 
                         <div class="contact-modern-field">
-                            <label for="telefono">Teléfono</label>
-                            <input id="telefono" name="telefono" type="tel" placeholder="+54 11 ...">
+                            <label for="numeroDeTelefono">Teléfono</label>
+                            <input id="numeroDeTelefono" name="Numero de telefono" type="tel" placeholder="+54 11 ...">
                         </div>
 
                         <div class="contact-modern-field">
                             <label for="ubicacion">Ubicación del proyecto</label>
-                            <select id="ubicacion" name="ubicacion">
+                            <select id="ubicacion" name="Ubicación del proyecto">
                                 <option value="">Seleccionar zona</option>
                                 <option value="CABA">CABA</option>
                                 <option value="GBA Norte">GBA Norte</option>
@@ -132,8 +132,8 @@
                         </div>
 
                         <div class="contact-modern-field contact-modern-field-full">
-                            <label for="mensaje">Mensaje y detalles del proyecto</label>
-                            <textarea id="mensaje" name="mensaje" rows="5"
+                            <label for="comentarios">Mensaje y detalles del proyecto</label>
+                            <textarea id="comentarios" name="Comentarios" rows="5"
                                 placeholder="Describí brevemente tu idea, el tipo de obra y cualquier dato que nos ayude a orientarte mejor."></textarea>
                         </div>
                     </div>

@@ -81,7 +81,8 @@ document.addEventListener('DOMContentLoaded', function() {
             });
             
             if (isValid) {
-                // Show success message
+                saveContactInGoogleSheets(formData);
+                
                 alert('¡Gracias por tu mensaje! Te contactaremos pronto.');
                 this.reset();
             } else {
@@ -89,6 +90,25 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     }
+
+    function saveContactInGoogleSheets(formData) {
+      const scriptURL =
+        "https://script.google.com/macros/s/AKfycbwq8Ka--u0FGXNmqYe4kyKlvXM1ZMU1IOMpidyKu_-qh_Fk-G6QekojUqsafYh3l-lq/exec";
+
+      fetch(scriptURL, {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: new URLSearchParams(formData),
+      })
+        .then((response) => response.json())
+        .then((data) => {
+          console.log("Success:", data);
+        })
+        .catch((error) => {
+          console.error("Error:", error);
+        });
+    }
+
     // Carousel functionality
     const track = document.querySelector('.carousel-track');
     const prevBtn = document.querySelector('.carousel-btn.prev');
